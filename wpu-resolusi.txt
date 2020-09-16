@@ -2,5 +2,5 @@ WPU RESOLUSI
 - Saya ingin suatu konsisten untuk membuat konten 2x seminggu
 - Membuat platform pengelolaan video materi
 - Membuat forum diskusi
-- Membuat layanan chat online
+- Membuat Fitur Kuis
 - Fitur download ebook
